@@ -1,5 +1,5 @@
 # Bilinear-initialization-for-QAOA
-This repository is implementation of the ["Quantum Approximate Optimization Algorithm Parameter Prediction Using a Convolutional Neural Network"](https://arxiv.org/abs/2209.11348)  
+This repository is implementation of the ["A Depth-Progressive Initialization Strategy for Quantum Approximate Optimization Algorithm"](https://arxiv.org/abs/2209.11348)  
 
 ## Requirements
 * Qiskit 0.32.1
